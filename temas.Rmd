@@ -12,6 +12,11 @@ output:
 # Sustainability 
 ## Sustainable Development Goals
 # Governance and politics
+## Agreement
+### 20210521 Paris. Achievements and weaknesses
+- [Reference](https://direct.mit.edu/glep/article/16/3/1/14984/The-Paris-Agreement-on-Climate-Change-Behind)
+## The importance of data in sustainable development, visualization and decision making
+- [Reference](https://arxiv.org/abs/1510.00098)
 # Projects 
 ## Project sustainability management
 # Smart cities 
