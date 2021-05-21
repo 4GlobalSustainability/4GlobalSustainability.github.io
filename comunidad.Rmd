@@ -1,0 +1,37 @@
+---
+title: "4GS"
+author: "Global Sustainability 4.0"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+# About us
+
+4GlobalSustainability is a Network of Institutions (formal and non-formal), Companies and Professionals with different interests (environmental, social, economic, environmental, technological, strategic) around sustainability and issues of digital transformation and industry 4.0.
+
+# Collaboration model
+
+## Institutions
+|UdeC|
+|---|
+|![](image/udec-150.png)|
+
+## Companies
+
+## Professionals and people
+|Equipo|
+|---|---|---|---|
+|![](image/gustavo-150.png)|**Phd (c) M.Sc. Gustavo Godoy U.**, School of Sciences and Technologies. Department of Geodetic and Geomatics Sciences. University of Concepción Campus Los Angeless|![]()|
+
+
+
+
+
+
+
+
+

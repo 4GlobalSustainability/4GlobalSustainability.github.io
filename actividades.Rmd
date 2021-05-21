@@ -1,0 +1,25 @@
+---
+title: "4GS"
+author: "Global Sustainability 4.0"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+# Webinars
+coming soon
+
+# Workshops
+coming soon
+
+# Trainings
+coming soon
+
+# Projects
+## OCRE - Gegional School Scientific Observatory 
+The Scientific School Observatory is an initiative of teachers from different higher education establishments (Universidad de Concepción, Universidad de la Serena, Universidad Adventista currently [04-28-2021]) in Chile, committed and aligned with development and decentralization processes in the region and the country, seeking with interest the free development of individuals, especially the high school community, where teachers and students elaborate part of the foundation of our society. At the same time that we build preventive actions against environmental and social problems, we are facing the challenges in the network.[Visit site](https://observatoriocientifico.github.io/)
+
+

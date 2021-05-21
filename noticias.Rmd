@@ -1,0 +1,18 @@
+---
+title: "4GS"
+author: "Global Sustainability 4.0"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    smooth_scroll: true
+---
+
+# 20210106 China Builds the World’s First Integrated Quantum Communication Network
+Chinese scientists have established the world’s first integrated quantum communication network, combining over 700 optical fibers on the ground with two ground-to-satellite links to achieve quantum key distribution over a total distance of 4,600 kilometers for users across the country. The team, led by Jianwei Pan, Yuao Chen, Chengzhi Peng from the University of Science and Technology of China in Hefei, reported in Nature their latest advances towards the global, practical application of such a network for future communications. [Source]Ï(https://scitechdaily.com/china-builds-the-worlds-first-integrated-quantum-communication-network/)
+
+
+
+
+
