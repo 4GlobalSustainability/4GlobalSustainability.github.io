@@ -9,6 +9,10 @@ output:
     smooth_scroll: true
 ---
 
+# 4GS
+
+4GlobalSustainability -> Global Sustainability 4.0 
+
 # View
 
 4GlobalSustainability aims to be an open Network of Institutions (formal and non-formal), Companies and Professionals with different interests (environmental, social, economic, environmental, technological, strategic) around sustainability and issues of digital transformation and industry 4.0 on a scale Global.
