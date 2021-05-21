@@ -9,9 +9,19 @@ output:
     smooth_scroll: true
 ---
 
+# Sustainability
+## Sustainable Development Goals
 # Governance and politics
+# Projects
+## Project sustainability management
+# Smart cities
+## Urban development
+## Energy
+## Digital Twins
 # Economy
 ## circular economy
 # Environment
 # Digital Transformation
-# Industry 4.0
+## Industry 4.0
+- Sustainability strategies for industries
+## Entrepreneurship
