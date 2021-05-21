@@ -20,8 +20,8 @@ output:
 ## Digital Twins
 # Economy
 ## circular economy
+## Entrepreneurship
 # Environment
 # Digital Transformation
 ## Industry 4.0
 - Sustainability strategies for industries
-## Entrepreneurship
