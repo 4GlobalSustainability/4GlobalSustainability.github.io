@@ -9,7 +9,6 @@ output:
     smooth_scroll: true
 ---
 
-
 # Vision
 
 4GlobalSustainability aims to be an open Network of Institutions (formal and non-formal), Companies and Professionals with different interests (environmental, social, economic, environmental, technological, strategic) around sustainability and issues of digital transformation and industry 4.0 on a scale Global.
