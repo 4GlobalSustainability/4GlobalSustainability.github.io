@@ -9,9 +9,6 @@ output:
     smooth_scroll: true
 ---
 
-# 4GS
-
-4GlobalSustainability -> Global Sustainability 4.0 
 
 # Vision
 
