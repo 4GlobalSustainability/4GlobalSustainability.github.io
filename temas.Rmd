@@ -10,9 +10,9 @@ output:
 ---
 
 # Questions to the knowledge model
-If you have a question about any topic of the knowledge model, enter it in the respective box to facilitate its classification and answer.
+If you have any questions about a topic in the knowledge model, enter it in the respective box to facilitate its classification and answer.
 
-Please take a minute to identify where to make your response, this will have a positive impact on the time, energy and resources that will be needed to manage the response and will reduce the digital footprint within the process.
+Take a minute to identify where to ask your question, this will have a positive impact on the time, energy and resources required for managing questions and managing joint activities to get the answers reducing the fingerprint within the process.
 
 |Topics|Activities|Problems|Technical Solutions|Social Solutions|International Responses|
 |---|---|---|---|---|---|
