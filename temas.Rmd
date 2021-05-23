@@ -9,24 +9,27 @@ output:
     smooth_scroll: true
 ---
 
-# Sustainability 
-## Sustainable Development Goals
-# Governance and politics
-## Agreement
-### 20210521 Paris. Achievements and weaknesses
-- [Reference](https://direct.mit.edu/glep/article/16/3/1/14984/The-Paris-Agreement-on-Climate-Change-Behind)
-## The importance of data in sustainable development, visualization and decision making
-- [Reference](https://arxiv.org/abs/1510.00098)
-# Projects 
-## Project sustainability management
-# Smart cities 
-## Urban development
-## Energy
-## Digital Twins
-# Economy 
-## circular economy
-## Entrepreneurship
-# Environment
-# Digital Transformation 
-## Industry 4.0
-- Sustainability strategies for industries
+# Questions to the knowledge model
+If you have a question about any topic of the knowledge model, enter it in the respective box to facilitate its classification and answer.
+
+Please take a minute to identify where to make your response, this will have a positive impact on the time, energy and resources that will be needed to manage the response and will reduce the digital footprint within the process.
+
+|Topics|Activities|Problems|Technical Solutions|Social Solutions|International Responses|
+|---|---|---|---|---|---|
+|Agriculture|[Activities-Agriculture](https://forms.gle/jf9Z448PCNPMbano9)|[Problems-Agriculture](https://forms.gle/Ttb9t33ASFuhZTAN9)|[Technical-Agriculture](https://forms.gle/VLaBSwrDNBNgGdY77)|[Social-Agriculture](https://forms.gle/ARd6AF2TWUbZqjbY9)|[International-Agriculture](https://forms.gle/YARJGhWXXJ4aPb9QA)|
+|Conflicts|[Activities-Conflicts](https://forms.gle/myWWngM5MY5pHB359)|[Problems-Conflicts](https://forms.gle/AfJdxfXoH71ofx8EA)|[Technical-Conflicts](https://forms.gle/iuhE8Ny71J8gZoEUA)|[Social-Conflicts](https://forms.gle/3TtJxwpa5EfcYLXi6)|[International-Conflicts](https://forms.gle/76MmWNGWZukwqz396)|
+|Consumption|[Activities-Consumption](https://forms.gle/YA9zdqjNfCyHwwSq9)|[Problems-Consumption](https://forms.gle/6MSHephz9PCmeNbBA)|[Technical-Consumption](https://forms.gle/NRL5dLzGVGmuhYQv8)|[Social-Consumption](https://forms.gle/5nBAkCV2zZZnE3iS9)|[International-Consumption](https://forms.gle/VnyopM3jKpXCF5R3A)|
+|Energy|[Activities-Energy](https://forms.gle/EGY25vM56qDiccVY6)|[Problems-Energy](https://forms.gle/t1f8iKMhhuahKoxz7)|[Technical-Energy](https://forms.gle/RxBH8SGULVMSQEQt9)|[Social-Energy](https://forms.gle/DXLV4UBJWdTD7DHT6)|[International-Energy](https://forms.gle/ub1RpZ7uPemWXgsE8)|
+|Gobernance|[Activities-Gobernance](https://forms.gle/QYHvpDhFHJE5GLq76)|[Problems-Gobernance](https://forms.gle/XqT1Tg8LH7bGrxSs7)|[Technical-Gobernance](https://forms.gle/uPA11B7L4nDpCRLf9)|[Social-Gobernance](https://forms.gle/uuMoxdSnYT3ghV4FA)|[International-Gobernance](https://forms.gle/8Pgm9iZZfMDzNBtU7)|
+|Industry|[Activities-Industry](https://forms.gle/cYU64cYfXDy8Gd8k6)|[Problems-Industry](https://forms.gle/BHn83JxQSCzTncBF8)|[Technical-Industry](https://forms.gle/4MK7pHW1omkjkkUT7)|[Social-Industry](https://forms.gle/dz6hPsBAinq7LWNb8)|[International-Industry](https://forms.gle/vP6hakgCKoAANKLD8)|
+|Land Use|[Activities-LandUse](https://forms.gle/rzRfesqqSnhc6Lzz5)|[Problems-LandUse](https://forms.gle/pcUvcnAyCy6iCoN37)|[Technical-LandUse](https://forms.gle/twTXjswi1s3atFWF6)|[Social-LandUse](https://forms.gle/285yavMsK8r4MkZc7)|[International-LandUse](https://forms.gle/ig5YCD7HsVkDXhs18)|
+|Migration|[Activities-Migration](https://forms.gle/8BdvE6he3ccBkx7c8)|[Problems-Migration](https://forms.gle/NFBdhWAT5FXwvJNv9)|[Technical-Migration](https://forms.gle/3w6qTub85Y9qX8Ct6)|[Social-Migration](https://forms.gle/JYaEfkKqJB5vsjGE7)|[International-Migration](https://forms.gle/sTpmrzEFChURpgav9)|
+|Mobility|[Activities-Mobility](https://forms.gle/WcmUkhnqRejBv58d8)|[Problems-Mobility](https://forms.gle/7FJKqDiRu3cVEtn3A)|[Technical-Mobility](https://forms.gle/kZc6iwAtYCiESmRa8)|[Social-Mobility](https://forms.gle/7acHvRZN1UMwbVUe9)|[International-Mobility](https://forms.gle/YY668L3XEnGVFFJA7)|
+|Population|[Activities-Population](https://forms.gle/DnRp3AjoEg7LdPoA6)|[Problems-Population](https://forms.gle/9o7jHthFpGvMfm1V7)|[Technical-Population](https://forms.gle/zDVmqUPwkr9pxqh38)|[Social-Population](https://forms.gle/QcjtpcjU3u7PbxM8A)|[International-Population](https://forms.gle/NLEjo7ipkxQ2RLuv8)|
+|Trade|[Activities-Trade](https://forms.gle/ghx6QyPNhyofW5bf9)|[Problems-Trade](https://forms.gle/auqcn7rdFnw8FKaX8)|[Technical-Trade](https://forms.gle/5tjcmSDwBgNNDwcYA)|[Social-Trade](https://forms.gle/GKwxXsqrBWwVWEtE6)|[International-Trade](https://forms.gle/XVyjUZezAGqHKWtG9)|
+|Unmet Needs|[Activities-UnmetNeeds](https://forms.gle/FsHkGLFhmLtShYz3A)|[Problems-UnmetNeeds](https://forms.gle/dYgdb7Y6Pnxik4jc9)|[Technical-UnmetNeeds](https://forms.gle/5gS2f1RGaA7dP66DA)|[Social-UnmetNeeds](https://forms.gle/vVNGS4AFDWJ8zQYh6)|[International-UnmetNeeds](https://forms.gle/ZPJ9Mfoq4s7rJopW7)|
+|Urbanization|[Activities-Urbanization](https://forms.gle/AuH67ynCiF4KHD5q6)|[Problems-Urbanization](https://forms.gle/csqb3xbZVBAoXziF8)|[Technical-Urbanization](https://forms.gle/bLSKj8fQo7u2jP5A6)|[Social-Urbanization](https://forms.gle/wamSaT5bFz5UGJDFA)|[International-Urbanization](https://forms.gle/PYX7z6XLvQ9ezDPz8)|
+|Water|[Activities-Water](https://forms.gle/sH1ht6oozYwMbUtZ6)|[Problems-Water](https://forms.gle/noDJb8g3smebPTzg7)|[Technical-Water](https://forms.gle/XF5L4Bo43LFePj2h8)|[Social-Water](https://forms.gle/neQpKxXSx8T4PoJk6)|[International-Water](https://forms.gle/METu6e8ZQt2WG2aw8)|
+
+This classification is based on the Knowledge Meta-Network for Decisions and Strategies of the MIT Global System for Sustainable Development. GSSD is an evolving knowledge network system dedicated to sustainable development. Designed to help identify and scale up innovative approaches to sustainability - including enabling, policy and strategic technologies, tracking various aspects of emerging challenges, problems and solutions to date. [Source](https://gssd.mit.edu/what-gssd)
+
