@@ -13,14 +13,7 @@ output:
 ## GSSD
 GSSD is an evolving knowledge networking system dedicated to sustainable development. Designed to help identify and extend innovative approaches toward sustainability—including enabling technologies, policies, and strategies—it tracks diverse aspects of challenges, problems, and emergent solutions to date. [Source](https://gssd.mit.edu/what-gssd)
 
-# Information
-coming soon
 
-# Data
-coming soon
-
-# Tools
-coming soon
 
 
 

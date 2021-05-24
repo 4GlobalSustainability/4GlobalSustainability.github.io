@@ -3,15 +3,11 @@ navbar:
   left:
     - text: "4GlobalSostenibilidad"
       href: index.html
+    - text: "Activities"
+      href: actividades.html
     - text: "Topics"
       href: temas.html
     - text: "Network Community"
       href: comunidad.html
-    - text: "Activities"
-      href: actividades.html
-    - text: "News"
-      href: noticias.html
-    - text: "Resources"
-      href: data.html
     - text: "Contact"
       href: contacto.html
